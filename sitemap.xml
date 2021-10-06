@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://ngaongo.com/posts/20211003_1st-post/</loc>
+    <lastmod>2021-10-03T09:11:36+07:00</lastmod>
+  </url><url>
+    <loc>http://ngaongo.com/</loc>
+    <lastmod>2021-10-03T09:11:36+07:00</lastmod>
+  </url><url>
+    <loc>http://ngaongo.com/posts/</loc>
+    <lastmod>2021-10-03T09:11:36+07:00</lastmod>
+  </url><url>
+    <loc>http://ngaongo.com/archives/</loc>
+  </url><url>
+    <loc>http://ngaongo.com/categories/</loc>
+  </url><url>
+    <loc>http://ngaongo.com/search/</loc>
+  </url><url>
+    <loc>http://ngaongo.com/tags/</loc>
+  </url>
+</urlset>

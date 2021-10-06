@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://ngaongo.com/sitemap.xml
