@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Ngáo Ngơ</title>
-    <link>https://ngaongo.com/</link>
+    <link>https://www.ngaongo.com/</link>
     <description>Recent content on Ngáo Ngơ</description>
     <image>
-      <url>https://ngaongo.com/papermod-cover.png</url>
-      <link>https://ngaongo.com/papermod-cover.png</link>
+      <url>https://www.ngaongo.com/papermod-cover.png</url>
+      <link>https://www.ngaongo.com/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 03 Oct 2021 09:11:36 +0700</lastBuildDate><atom:link href="https://ngaongo.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 Oct 2021 09:11:36 +0700</lastBuildDate><atom:link href="https://www.ngaongo.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>20211003_1st Post</title>
-      <link>https://ngaongo.com/posts/20211003_1st-post/</link>
+      <link>https://www.ngaongo.com/posts/20211003_1st-post/</link>
       <pubDate>Sun, 03 Oct 2021 09:11:36 +0700</pubDate>
       
-      <guid>https://ngaongo.com/posts/20211003_1st-post/</guid>
+      <guid>https://www.ngaongo.com/posts/20211003_1st-post/</guid>
       <description> this is caption
  </description>
     </item>
