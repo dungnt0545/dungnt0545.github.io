@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Ngáo Ngơ</title>
-    <link>https://www.ngaongo.com/</link>
-    <description>Recent content on Ngáo Ngơ</description>
+    <title>Ăn uống on Ngáo Ngơ</title>
+    <link>https://www.ngaongo.com/categories/%C4%83n-u%E1%BB%91ng/</link>
+    <description>Recent content in Ăn uống on Ngáo Ngơ</description>
     <image>
       <url>https://www.ngaongo.com/papermod-cover.png</url>
       <link>https://www.ngaongo.com/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 09 Oct 2021 21:01:18 +0700</lastBuildDate><atom:link href="https://www.ngaongo.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Oct 2021 21:01:18 +0700</lastBuildDate><atom:link href="https://www.ngaongo.com/categories/%C4%83n-u%E1%BB%91ng/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>20211009</title>
       <link>https://www.ngaongo.com/posts/this-is-slug-in-url/</link>
@@ -18,18 +18,6 @@
       <guid>https://www.ngaongo.com/posts/this-is-slug-in-url/</guid>
       <description>test text</description>
     </item>
-    
-    <item>
-      <title>20211003_1st Post</title>
-      <link>https://www.ngaongo.com/posts/20211003_1st-post/</link>
-      <pubDate>Sun, 03 Oct 2021 09:11:36 +0700</pubDate>
-      
-      <guid>https://www.ngaongo.com/posts/20211003_1st-post/</guid>
-      <description> this is caption
- </description>
-    </item>
-    
-    
     
   </channel>
 </rss>
