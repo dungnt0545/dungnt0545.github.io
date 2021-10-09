@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.ngaongo.com/posts/this-is-slug-in-url/</loc>
+    <loc>https://www.ngaongo.com/categories/</loc>
     <lastmod>2021-10-09T21:01:18+07:00</lastmod>
   </url><url>
-    <loc>https://www.ngaongo.com/categories/</loc>
+    <loc>https://www.ngaongo.com/posts/this-is-slug-in-url/</loc>
     <lastmod>2021-10-09T21:01:18+07:00</lastmod>
   </url><url>
     <loc>https://www.ngaongo.com/</loc>
