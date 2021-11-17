@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Ngáo Ngơ</title>
-    <link>https://www.ngaongo.com/</link>
-    <description>Recent content on Ngáo Ngơ</description>
+    <title>Posts on Ngáo Ngơ</title>
+    <link>https://www.ngaongo.com/posts/</link>
+    <description>Recent content in Posts on Ngáo Ngơ</description>
     <image>
       <url>https://www.ngaongo.com/papermod-cover.png</url>
       <link>https://www.ngaongo.com/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 16 Nov 2021 15:51:17 +0700</lastBuildDate><atom:link href="https://www.ngaongo.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Nov 2021 15:51:17 +0700</lastBuildDate><atom:link href="https://www.ngaongo.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My first 10K</title>
       <link>https://www.ngaongo.com/posts/first-10k/</link>
@@ -18,17 +18,6 @@
       <guid>https://www.ngaongo.com/posts/first-10k/</guid>
       <description>Quá trình đạt được 10K đầu tiên từ khi bắt đầu chạy</description>
     </item>
-    
-    <item>
-      <title>Manifesto</title>
-      <link>https://www.ngaongo.com/manifesto/</link>
-      <pubDate>Mon, 15 Nov 2021 11:16:47 +0700</pubDate>
-      
-      <guid>https://www.ngaongo.com/manifesto/</guid>
-      <description>True core values</description>
-    </item>
-    
-    
     
   </channel>
 </rss>
