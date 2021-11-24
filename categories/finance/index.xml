@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Ngáo Ngơ</title>
-    <link>https://www.ngaongo.com/posts/</link>
-    <description>Recent content in Posts on Ngáo Ngơ</description>
+    <title>Finance on Ngáo Ngơ</title>
+    <link>https://www.ngaongo.com/categories/finance/</link>
+    <description>Recent content in Finance on Ngáo Ngơ</description>
     <image>
       <url>https://www.ngaongo.com/papermod-cover.png</url>
       <link>https://www.ngaongo.com/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 24 Nov 2021 21:39:18 +0700</lastBuildDate><atom:link href="https://www.ngaongo.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 24 Nov 2021 21:39:18 +0700</lastBuildDate><atom:link href="https://www.ngaongo.com/categories/finance/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Các giai đoạn tài chính trong đời</title>
       <link>https://www.ngaongo.com/posts/financial_life_stages/</link>
@@ -17,15 +17,6 @@
       
       <guid>https://www.ngaongo.com/posts/financial_life_stages/</guid>
       <description>Tìm hiểu về các cách chia giai đoạn tài chính trong đời</description>
-    </item>
-    
-    <item>
-      <title>My first 10K</title>
-      <link>https://www.ngaongo.com/posts/first-10k/</link>
-      <pubDate>Tue, 16 Nov 2021 15:51:17 +0700</pubDate>
-      
-      <guid>https://www.ngaongo.com/posts/first-10k/</guid>
-      <description>Quá trình đạt được 10K đầu tiên từ khi bắt đầu chạy</description>
     </item>
     
   </channel>
