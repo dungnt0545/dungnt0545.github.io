@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Finance on Ngáo Ngơ</title>
-    <link>https://www.ngaongo.com/categories/finance/</link>
-    <description>Recent content in Finance on Ngáo Ngơ</description>
+    <title>Book on Ngáo Ngơ</title>
+    <link>https://www.ngaongo.com/categories/book/</link>
+    <description>Recent content in Book on Ngáo Ngơ</description>
     <image>
       <url>https://www.ngaongo.com/papermod-cover.png</url>
       <link>https://www.ngaongo.com/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 02 Dec 2021 14:41:32 +0700</lastBuildDate><atom:link href="https://www.ngaongo.com/categories/finance/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Dec 2021 14:41:32 +0700</lastBuildDate><atom:link href="https://www.ngaongo.com/categories/book/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lessons from Your Money or Your Life</title>
       <link>https://www.ngaongo.com/posts/your-money-or-your-life/</link>
@@ -17,15 +17,6 @@
       
       <guid>https://www.ngaongo.com/posts/your-money-or-your-life/</guid>
       <description>Memo and lessons learn from book Your Money or Your Life</description>
-    </item>
-    
-    <item>
-      <title>Các giai đoạn tài chính trong đời</title>
-      <link>https://www.ngaongo.com/posts/financial_life_stages/</link>
-      <pubDate>Wed, 24 Nov 2021 21:39:18 +0700</pubDate>
-      
-      <guid>https://www.ngaongo.com/posts/financial_life_stages/</guid>
-      <description>Tìm hiểu về các cách chia giai đoạn tài chính trong đời</description>
     </item>
     
   </channel>
