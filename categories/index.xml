@@ -9,11 +9,20 @@
       <link>https://www.ngaongo.com/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 02 Dec 2021 14:41:32 +0700</lastBuildDate><atom:link href="https://www.ngaongo.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Dec 2021 21:18:14 +0700</lastBuildDate><atom:link href="https://www.ngaongo.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Life lessons</title>
+      <link>https://www.ngaongo.com/categories/life-lessons/</link>
+      <pubDate>Thu, 02 Dec 2021 21:18:14 +0700</pubDate>
+      
+      <guid>https://www.ngaongo.com/categories/life-lessons/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Book</title>
       <link>https://www.ngaongo.com/categories/book/</link>
-      <pubDate>Thu, 02 Dec 2021 14:41:32 +0700</pubDate>
+      <pubDate>Wed, 01 Dec 2021 14:41:32 +0700</pubDate>
       
       <guid>https://www.ngaongo.com/categories/book/</guid>
       <description></description>
@@ -22,7 +31,7 @@
     <item>
       <title>Finance</title>
       <link>https://www.ngaongo.com/categories/finance/</link>
-      <pubDate>Thu, 02 Dec 2021 14:41:32 +0700</pubDate>
+      <pubDate>Wed, 01 Dec 2021 14:41:32 +0700</pubDate>
       
       <guid>https://www.ngaongo.com/categories/finance/</guid>
       <description></description>
