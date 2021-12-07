@@ -9,7 +9,16 @@
       <link>https://www.ngaongo.com/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 02 Dec 2021 21:18:14 +0700</lastBuildDate><atom:link href="https://www.ngaongo.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Dec 2021 10:37:51 +0700</lastBuildDate><atom:link href="https://www.ngaongo.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tự động gửi quote &amp; highlight đến email mỗi ngày</title>
+      <link>https://www.ngaongo.com/posts/daily-quote-and-highlight/</link>
+      <pubDate>Tue, 07 Dec 2021 10:37:51 +0700</pubDate>
+      
+      <guid>https://www.ngaongo.com/posts/daily-quote-and-highlight/</guid>
+      <description>Dùng google sheet và google app script để động gửi quote &amp;amp; highlight đến email mỗi ngày giúp tăng thêm động lực</description>
+    </item>
+    
     <item>
       <title>Câu chuyện cái chảo</title>
       <link>https://www.ngaongo.com/posts/cau-chuyen-cai-chao/</link>
