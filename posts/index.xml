@@ -9,7 +9,16 @@
       <link>https://www.ngaongo.com/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 07 Dec 2021 10:37:51 +0700</lastBuildDate><atom:link href="https://www.ngaongo.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Dec 2021 17:26:45 +0700</lastBuildDate><atom:link href="https://www.ngaongo.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deep work</title>
+      <link>https://www.ngaongo.com/posts/deep-work/</link>
+      <pubDate>Tue, 28 Dec 2021 17:26:45 +0700</pubDate>
+      
+      <guid>https://www.ngaongo.com/posts/deep-work/</guid>
+      <description>Memo and lessons learn from book Deep work</description>
+    </item>
+    
     <item>
       <title>Tự động gửi quote &amp; highlight đến email mỗi ngày</title>
       <link>https://www.ngaongo.com/posts/daily-quote-and-highlight/</link>
