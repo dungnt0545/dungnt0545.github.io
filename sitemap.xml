@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.ngaongo.com/</loc>
+    <lastmod>2022-04-12T08:10:15+07:00</lastmod>
+  </url><url>
+    <loc>https://www.ngaongo.com/posts/</loc>
+    <lastmod>2022-04-12T08:10:15+07:00</lastmod>
+  </url><url>
+    <loc>https://www.ngaongo.com/posts/van-vo-01/</loc>
+    <lastmod>2022-04-12T08:10:15+07:00</lastmod>
+  </url><url>
     <loc>https://www.ngaongo.com/categories/</loc>
     <lastmod>2022-03-14T11:40:17+07:00</lastmod>
   </url><url>
@@ -9,12 +18,6 @@
     <lastmod>2022-03-14T11:40:17+07:00</lastmod>
   </url><url>
     <loc>https://www.ngaongo.com/posts/hell-yeah-or-no/</loc>
-    <lastmod>2022-03-14T11:40:17+07:00</lastmod>
-  </url><url>
-    <loc>https://www.ngaongo.com/</loc>
-    <lastmod>2022-03-14T11:40:17+07:00</lastmod>
-  </url><url>
-    <loc>https://www.ngaongo.com/posts/</loc>
     <lastmod>2022-03-14T11:40:17+07:00</lastmod>
   </url><url>
     <loc>https://www.ngaongo.com/posts/2021-final-thoughts/</loc>
